@@ -1,6 +1,6 @@
 # ThreadPool
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/middzwb/ThreadPool/build?style=flat-square&logo=appveyor)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/middzwb/ThreadPool/build?style=flat-square&logo=appveyor)](https://github.com/middzwb/ThreadPool/actions)
 
 simple `c++17` thread pool
 
